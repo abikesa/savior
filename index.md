@@ -12,15 +12,15 @@ You only have to have some faith
 
                                            
 
-### Nodes: [Faith](https://abikesa.github.io/sociology/)
+### [Faith](https://abikesa.github.io/sociology/)
 - [Restricted](https://www.cdc.gov/rdc/index.htm) [access](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)
 - Extract parameters
 
-### [Hope](https://abikesa.github.io/revolution/): [Information](https://abikesa.github.io/graphtheory/)
+### [Hope](https://abikesa.github.io/revolution/)
 - Open science 
 - [Disclosure risk](hottest.md)
 
-### [Love](https://abikesa.github.io/californiagrid/): Compute
+### [Love](https://abikesa.github.io/californiagrid/)
 - [Quick deploy](https://www.linkedin.com/pulse/openais-identity-crisis-battle-ais-future-azeem-azhar-jem4e)
 - Bayesian credibility
 
