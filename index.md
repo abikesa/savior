@@ -14,7 +14,7 @@ You only have to have some faith
 
 ### [Faith](https://abikesa.github.io/sociology/)
 - [Restricted](https://www.cdc.gov/rdc/index.htm) [access](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)
-- Extract parameters
+- [Extract parameters](https://abikesa.github.io/personalized/)
 
 ### [Hope](https://abikesa.github.io/revolution/)
 - Open science 
